@@ -1,7 +1,7 @@
 # Millenium
 ##Programa solicitado para la segunda etapa
 
-###Descripción:
+### Descripción:
 El formulario debe registrar los datos en una base de datos Mysql, el prospecto debe crear la Base de Datos y la tabla con su respectivo campos.
 
 Se requiere enviar los datos del FrontEnd a el BackEnd utilizando la tecnología AJAX  para realizar esta acción, la pagina en donde se encontrará el formulario no se debe refrescar.
@@ -17,9 +17,9 @@ Al finalizar la tarea cargar el proyecto en un repositorio github ó gitlab y co
 
 Software Millennium.ium.
 
-###Código usado para crear la base de datos
+### Código usado para crear la base de datos
 >La base de datos fue creada en phpMyAdmin pero se pueden usar DBMS diferentes a este debido a la implementación de PDO en el programa.
-####Crear tabla "datos"
+#### Crear tabla "datos"
 ```
 CREATE TABLE `datos` (
   `id` int(11) NOT NULL,
