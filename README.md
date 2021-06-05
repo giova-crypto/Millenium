@@ -1,5 +1,5 @@
 # Millenium
-##Programa solicitado para la segunda etapa
+## Programa solicitado para la segunda etapa
 
 ### Descripción:
 El formulario debe registrar los datos en una base de datos Mysql, el prospecto debe crear la Base de Datos y la tabla con su respectivo campos.
