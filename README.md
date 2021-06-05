@@ -34,4 +34,5 @@ CREATE TABLE `datos` (
   `Apellido` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 ```
-
+### Configuración para implementación en local
+Cambiar los valores de las variables de las lineas *5 a 8* en el archivo **consulta.php** junto con los nombres de los campos de la tabla en la linea *19* en caso de que estos sean diferentes.
