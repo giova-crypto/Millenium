@@ -20,7 +20,7 @@ Software Millennium.ium.
 El programa fue desarrollado según lo requerido con **PHP puro**, **AJAX** para envío de datos y para el frontend se utilizó **Bootstrap** como framework, **SweetAlert2** para las alertas en pantalla y **Bootstrap Icons** para un par de íconos.
 
 ### Código usado para crear la base de datos
->La base de datos fue creada en phpMyAdmin pero se pueden usar DBMS diferentes a este debido a la implementación de PDO en el programa.
+>La base de datos fue creada en MySql(phpMyAdmin) pero se pueden usar DBMS diferentes a este debido a la implementación de PDO en el programa.
 
 #### Crear base de datos "millenium"
 ```
