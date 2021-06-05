@@ -1,10 +1,11 @@
-.container-data{
-    margin: 5%;
-    padding: 5%;
-    border: 1px solid #ccc;
+/* Rellenar un poco el div principal y agregarle un borde para diferenciarlo del body*/
+.container-data {
+  margin: 5%;
+  padding: 5%;
+  border: 1px solid #ccc;
 }
-
-.formulario{
-    height: 100%;
-    width: 40%;
+/* Ajustar el tamaño del div que contiene el formulario*/
+.formulario {
+  height: 100%;
+  width: 40%;
 }

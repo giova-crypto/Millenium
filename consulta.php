@@ -14,6 +14,7 @@ try {
 } catch (PDOException $error) {
     echo "Connection error:".$error->getMessage();
 }
+//Preparar y ejecutar query
 try {
     $query = $pdo->prepare('INSERT INTO datos(Nombre, Apellido) VALUES (?,?)');
     $arrData = array($nombre,$apellido);
@@ -24,4 +25,3 @@ try {
     echo "No se pudo guardar los datos: ".$e->getMessage();
     die;
 }
-?>
