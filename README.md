@@ -23,7 +23,7 @@ El programa fue desarrollado según lo requerido con **PHP puro**, **AJAX para e
 >La base de datos fue creada en phpMyAdmin pero se pueden usar DBMS diferentes a este debido a la implementación de PDO en el programa.
 
 #### Crear base de datos ""millenium
-`CREATE DATABASE millenium;`
+```CREATE DATABASE millenium;```
 #### Crear tabla "datos"
 ```
 CREATE TABLE `datos` (
