@@ -28,6 +28,7 @@ CREATE DATABASE millenium;
 ```
 #### Crear tabla "datos"
 ```
+USE DATABASE Millenium;
 CREATE TABLE `datos` (
   `id` int(11) NOT NULL,
   `Nombre` varchar(30) NOT NULL,
