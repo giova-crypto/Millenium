@@ -1,0 +1,10 @@
+.container-data{
+    margin: 5%;
+    padding: 5%;
+    border: 1px solid #ccc;
+}
+
+.formulario{
+    height: 100%;
+    width: 40%;
+}
