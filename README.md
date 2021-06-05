@@ -9,9 +9,9 @@ Se requiere enviar los datos del FrontEnd a el BackEnd utilizando la tecnología
 Al guardar los datos se debe de mostrar un mensaje indicando que la información ha sido guardada correctamente.
 
 Consideraciones: \n
--Para el BackEnd utilizar PHP nativo, no se emplea Framework. \n
--Utilizar AJAX para el envío de los datos. \n
--Para el FrontEnd puede utilizar Bootstrap o cualquier framework de preferencia. \n
+-Para el BackEnd utilizar PHP nativo, no se emplea Framework.
+-Utilizar AJAX para el envío de los datos.
+-Para el FrontEnd puede utilizar Bootstrap o cualquier framework de preferencia.
 
 Al finalizar la tarea cargar el proyecto en un repositorio github ó gitlab y compartir el enlace del repositorio en donde se cargó el proyecto al correo.
 
