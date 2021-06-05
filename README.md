@@ -17,10 +17,13 @@ Al finalizar la tarea cargar el proyecto en un repositorio github ó gitlab y co
 
 Software Millennium.ium.
 ### Desarrollo
-El programa fue desarrollado según lo requerido con **PHP puro**, **AJAX para envío de datos** y para el frontend se utilizó **Bootstrap** como framework, **SweetAlert2** para las alertas en pantalla y **FontAwesome** para un par de íconos.
+El programa fue desarrollado según lo requerido con **PHP puro**, **AJAX para envío de datos** y para el frontend se utilizó **Bootstrap** como framework, **SweetAlert2** para las alertas en pantalla y **Bootstrap Icons** para un par de íconos.
 
 ### Código usado para crear la base de datos
 >La base de datos fue creada en phpMyAdmin pero se pueden usar DBMS diferentes a este debido a la implementación de PDO en el programa.
+
+#### Crear base de datos ""millenium
+`CREATE DATABASE millenium;`
 #### Crear tabla "datos"
 ```
 CREATE TABLE `datos` (
@@ -29,3 +32,4 @@ CREATE TABLE `datos` (
   `Apellido` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 ```
+
